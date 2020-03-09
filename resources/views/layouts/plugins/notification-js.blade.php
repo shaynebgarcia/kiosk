@@ -1,0 +1,2 @@
+<script src="{{ asset('laravel-admindek/assets/js/bootstrap-growl.min.js') }}" type="text/javascript"></script>
+<script src="{{ asset('laravel-admindek/assets/pages/notification/notification.js') }}" type="text/javascript"></script>
